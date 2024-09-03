@@ -1,3 +1,3 @@
 # converter
 
-###HTML to Markdown converter
+HTML to Markdown converter
